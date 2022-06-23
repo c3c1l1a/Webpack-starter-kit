@@ -1,0 +1,2 @@
+{"/home/cess/Desktop/Webpack-starter-kit/src/index.js": {"path":"/home/cess/Desktop/Webpack-starter-kit/src/index.js","statementMap":{"0":{"start":{"line":18,"column":2},"end":{"line":18,"column":15}}},"fnMap":{"0":{"name":"testFunction","decl":{"start":{"line":17,"column":9},"end":{"line":17,"column":21}},"loc":{"start":{"line":17,"column":28},"end":{"line":19,"column":1}},"line":17}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"8d0af31b3a56917fa8d110a5244127b1d9242fee"}
+}
