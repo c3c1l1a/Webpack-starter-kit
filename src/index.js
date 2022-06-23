@@ -1,21 +1,6 @@
-//import _ from 'lodash';
-//import './css/style.css';
-//import './index.html';
+import './css/style.css';
+import './index.html';
 
-/*function component() {
-  const element = document.createElement('div');
+import exampleModule from './modules/exampleModule.js';
 
-  // Lodash, currently included via a script, is required for this line to work
-  element.innerHTML = _.join(['Hello', 'webpak'], ' ');
 
-  return element;
-}
-
-document.body.appendChild(component());
-*/
-
-function testFunction(input){
-  return input;
-}
-
-export default testFunction;

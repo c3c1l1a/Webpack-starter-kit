@@ -9,6 +9,10 @@
     "start": "webpack serve --open --mode=development",
     "watch": "webpack --watch"
   },
+  "jest": {
+    "testEnvironment": "jsdom",
+    "resetMocks": false
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/c3c1l1a/Webpack-exercise.git"
@@ -32,6 +36,7 @@
     "html-loader": "^3.1.0",
     "html-webpack-plugin": "^5.5.0",
     "jest": "^28.1.1",
+    "jest-environment-jsdom": "^28.1.1",
     "style-loader": "^3.3.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
